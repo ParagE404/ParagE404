@@ -1,13 +1,17 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋 I'm Parag Dharadhar</h1>
+
+
+## 💫 About Me:
 I'm a full-stack engineer with 2+ years of experience building scalable web apps across e-commerce, BFSI, and IoT domains. I’ve led teams, architected complex systems, and automated real-world workflows.
 Now shifting focus to AI and cloud computing, I’m diving into LLMs, fine-tuning, and scalable SaaS—while gearing up for my MSc at City University, London.
 
-# 🚀 What I'm Up To
-🧑‍💻 Recently wrapped up as Software Engineer at WLBS, where I scaled full-stack apps across e-commerce, IoT, and BFSI.<br/>
-🌐 Now diving into AI—exploring LLMs, fine-tuning, and cloud-native architectures.<br/>
-📚 Starting my MSc in Software Engineering with Cloud Computing at City, University of London.<br/>
-✉️ Open to collaborations, ideas, and conversations—drop a message.<br/>
+## 🚀 What I'm Up To
+- 🧑‍💻 Recently wrapped up as Software Engineer at WLBS, where I scaled full-stack apps across e-commerce, IoT, and BFSI.
+- 🌐 Now diving into AI—exploring LLMs, fine-tuning, and cloud-native architectures.
+- 📚 Starting my MSc in Software Engineering with Cloud Computing at City, University of London.
+- ✉️ Open to collaborations, ideas, and conversations—drop a message.
 
+Check out my [coding portfolio!](https://paragdharadhar.github.io/portfolio/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paraggggggggg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parag-dharadhar-6823bb1aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paragdharadhar@gmail.com) 
